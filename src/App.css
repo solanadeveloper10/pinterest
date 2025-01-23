@@ -28,7 +28,7 @@
   width: calc(100vw - 22px);
   height: 100vh;
   /* Full viewport height */
-  background-image: url('/images/pinterest_long.jpg');
+  background-image: url('/images/pinterest_long.webp');
   background-size: cover;
   /* Keep the original proportions */
   background-repeat: no-repeat;
@@ -41,12 +41,12 @@
 
   @media (max-width: 1023.98px) {
     width: 100vw;
-    background-image: url('/images/pinterest_long_tablet.jpg');
+    background-image: url('/images/pinterest_long_tablet.webp');
   }
 
   @media (max-width: 609.98px) {
     width: 100vw;
-    background-image: url('/images/pinterest_long_mobile.jpg');
+    background-image: url('/images/pinterest_long_mobile.webp');
   }
 }
 
@@ -164,6 +164,8 @@
 
   @media (max-width: 609.98px) {
     max-width: unset;
+
+    font-size: 16px;
   }
 }
 
