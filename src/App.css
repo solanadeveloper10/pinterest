@@ -54,7 +54,14 @@
   font-size: 6em;
   color: white;
 
-  background-color: rgba(0, 0, 0, 0.4);
+  /* background-color: rgba(0, 0, 0, 0.4); */
+  background-color: #cc0f35;
+
+  padding-top: 10px;
+  padding-bottom: 30px;
+  padding-inline: 60px;
+  border-radius: 1em;
+  line-height: 1;
 }
 
 
@@ -117,11 +124,14 @@
 
     height: 72px;
     width: 100vw;
+    padding-block: unset;
+
+    padding-top: 12px;
   }
 }
 
 .contract {
-  font-size: 2em;
+  font-size: 1.5em;
   color: white;
 
   background-color: rgba(0, 0, 0, 0.4);
@@ -137,4 +147,8 @@
   display: inline-block;
 
   text-align: center;
+
+  border-radius: 2em;
+
+  padding: 10px 30px;
 }
