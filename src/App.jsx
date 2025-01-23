@@ -35,7 +35,7 @@ function App() {
           CA:&nbsp;cyYjYF4zE8qzdZujX7qYnhVDjEydVVh4MA51wJ8rest
         </p>
 
-        <a href="#" target='_blank' className='buy-link'>
+        <a href="https://raydium.io/swap/?inputMint=sol&outputMint=cyYjYF4zE8qzdZujX7qYnhVDjEydVVh4MA51wJ8rest" target='_blank' className='buy-link'>
           BUY
         </a>
       </section>
