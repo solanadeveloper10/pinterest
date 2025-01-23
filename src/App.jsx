@@ -25,7 +25,7 @@ function App() {
       </aside>
 
       <div className="spinner">
-        Loading...
+        <img src="/images/icons/pinterest_spinner.png" alt="Spinner" className='spinner-img'/>
       </div>
 
       <section className='content'>
