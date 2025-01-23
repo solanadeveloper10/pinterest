@@ -9,16 +9,16 @@ function App() {
           <a className="social-link" href="/">
             <img className="social-img" src="/images/icons/pinterest.png" />
           </a>
-          <a className="social-link" href="#twitter">
+          <a className="social-link" href="https://x.com/PinterestCoin">
             <img className="social-img" src="/images/icons/x.jpg" />
           </a>
-          <a className="social-link" href="#telegram">
+          <a className="social-link" href="https://t.me/PinterestCoinSol">
             <img className="social-img" src="/images/icons/tg.png" />
           </a>
-          <a className="social-link" href="#dexscreener">
+          <a className="social-link" href="https://dexscreener.com/solana/cyYjYF4zE8qzdZujX7qYnhVDjEydVVh4MA51wJ8rest">
             <img className="social-img" src="/images/icons/dex_screener.jpg" />
           </a>
-          <a className="social-link" href="#dextools">
+          <a className="social-link" href="https://www.dextools.io/app/en/solana/pair-explorer/GThKZDWkAhKpjRQxyWMYY7yxLA5pzn5ueHkqa6zVMv41?t=1737651234861">
             <img className="social-img" src="/images/icons/dextools.jpg" />
           </a>
         </div>
@@ -32,7 +32,7 @@ function App() {
         <h1 className='title'>Pinterest</h1>
 
         <p className='contract'>
-          CA:&nbsp;trumpdJmqbcytBWLYbtY8Mf6BR8azw4Ht3sZbsY25v3
+          CA:&nbsp;cyYjYF4zE8qzdZujX7qYnhVDjEydVVh4MA51wJ8rest
         </p>
 
         <a href="#" target='_blank' className='buy-link'>
