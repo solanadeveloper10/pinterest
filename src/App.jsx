@@ -25,7 +25,7 @@ function App() {
       </aside>
 
       <div className="spinner">
-        <img src="/images/icons/pinterest_spinner.png" alt="Spinner" className='spinner-img'/>
+        <img src="/images/icons/pinterest_spinner.webp" alt="Spinner" className='spinner-img'/>
       </div>
 
       <section className='content'>

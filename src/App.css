@@ -230,15 +230,14 @@
   font-size: 4em;
 
   position: absolute;
-  /* bottom: 150px; */
   top: 0;
   left: 0;
 
-  z-index: -1;
+  /* z-index: -1; */
 }
 
 .spinner-img {
-  width: 150px;
+  width: 80px;
   height: auto;
 
   animation: spinnerPulsation 1.5s linear infinite;
