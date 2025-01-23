@@ -23,12 +23,21 @@ function App() {
           </a>
         </div>
       </aside>
+
+      <div className="spinner">
+        Loading...
+      </div>
+
       <section className='content'>
         <h1 className='title'>Pinterest</h1>
 
         <p className='contract'>
           CA:&nbsp;trumpdJmqbcytBWLYbtY8Mf6BR8azw4Ht3sZbsY25v3
         </p>
+
+        <a href="#" target='_blank' className='buy-link'>
+          BUY
+        </a>
       </section>
     </div>
   )

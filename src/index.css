@@ -3,7 +3,8 @@
   src: url('/fonts/Segoe UI.ttf') format('truetype');
 }
 
-body {
+body,
+a {
   font-family: 'Segoe UI', sans-serif;
 }
 
