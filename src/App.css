@@ -39,6 +39,8 @@
   /* Adjust duration as needed */
   overflow: hidden;
 
+  margin-inline: 12px;
+
   @media (max-width: 1023.98px) {
     width: 100vw;
     background-image: url('/images/pinterest_long_tablet.webp');
@@ -47,6 +49,8 @@
   @media (max-width: 609.98px) {
     width: 100vw;
     background-image: url('/images/pinterest_long_mobile.webp');
+
+    gap: 12px;
   }
 }
 
@@ -67,7 +71,7 @@
   @media (max-width: 609.98px) {
     font-size: 4em;
 
-    padding-inline: 40px;
+    padding-inline: 30px;
     padding-top: 5px;
     padding-bottom: 15px;
   }
